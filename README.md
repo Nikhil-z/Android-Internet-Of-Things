@@ -1,7 +1,7 @@
-Android Things empty project template
+Android Things - A sample LED light blink project 
 =====================================
 
-Use this empty project as a template for your Android Things project.
+Create your first IOT project using this sample project .
 
 
 Pre-requisites
@@ -22,6 +22,8 @@ If you prefer to run on the command line, type
 ./gradlew installDebug
 adb shell am start com.example.androidthings.myproject/.MainActivity
 ```
+
+Courtesy : Google 
 
 License
 -------
